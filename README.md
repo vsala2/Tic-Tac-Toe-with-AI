@@ -5,6 +5,9 @@ This project is a Tic-Tac-Toe game implemented in Python using MiniMax Algorithm
 ## Project Objective
 The objective of this project is to showcase the implementation of MiniMax algorithm in building a Tic-Tac-Toe game. To achieve this, we have used Python programming language and implemented the MiniMax algorithm to create the AI opponent for the game.
 
+## MiniMax Algorithm
+![Minimax Algorithm](https://github.com/vsala2/Tic-Tac-Toe-with-MiniMax-Algorithm/blob/main/minimax.PNG)
+
 ## Libraries and Tools
 The following tools and libraries were used in this project:
 - Visual Studio Code
