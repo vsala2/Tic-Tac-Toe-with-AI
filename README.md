@@ -32,6 +32,18 @@ If either the player or the AI agent wins, an imaginary line will form connectin
 ## Dashboard
 ![Start Game](https://github.com/vsala2/Tic-Tac-Toe-with-MiniMax-Algorithm/blob/main/initialStage.PNG)
 
+## Horizontal
+![Horizontal](https://github.com/vsala2/Tic-Tac-Toe-with-MiniMax-Algorithm/blob/main/drawlineHorizontical.PNG)
+
+## Vertical
+![Vertical](https://github.com/vsala2/Tic-Tac-Toe-with-MiniMax-Algorithm/blob/main/drawLine.PNG)
+
+## Diagonal
+![Diagonal](https://github.com/vsala2/Tic-Tac-Toe-with-MiniMax-Algorithm/blob/main/diagonaldrawline.PNG)
+
+## Quit Game
+![End Game](https://github.com/vsala2/Tic-Tac-Toe-with-MiniMax-Algorithm/blob/main/end.PNG)
+
 We have created a user-friendly interface using Python libraries such as random, pickle, cv2, and numpy, to make the game more enjoyable and engaging for the users. 
 
 ## Conclusion
