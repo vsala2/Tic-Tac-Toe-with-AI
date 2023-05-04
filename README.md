@@ -26,11 +26,11 @@ The Tic-Tac-Toe game comes with the following features:
 - Reset feature
 - Quit option
 
-## Winning and Losing Conditions
-If either the player or the AI agent wins, an imaginary line will form connecting 3 same symbols (horizontal, vertical, or diagonal). The losing condition is if no combination is formed until all the cells in the grid are full.
-
 ## Dashboard
 ![Start Game](https://github.com/vsala2/Tic-Tac-Toe-with-MiniMax-Algorithm/blob/main/initialStage.PNG)
+
+## Winning and Losing Conditions
+If either the player or the AI agent wins, an imaginary line will form connecting 3 same symbols (horizontal, vertical, or diagonal). The losing condition is if no combination is formed until all the cells in the grid are full.
 
 ## Horizontal
 ![Horizontal](https://github.com/vsala2/Tic-Tac-Toe-with-MiniMax-Algorithm/blob/main/drawlineHorizontical.PNG)
@@ -41,10 +41,10 @@ If either the player or the AI agent wins, an imaginary line will form connectin
 ## Diagonal
 ![Diagonal](https://github.com/vsala2/Tic-Tac-Toe-with-MiniMax-Algorithm/blob/main/diagonaldrawline.PNG)
 
+We have created a user-friendly interface using Python libraries such as random, pickle, cv2, and numpy, to make the game more enjoyable and engaging for the users. 
+
 ## Quit Game
 ![End Game](https://github.com/vsala2/Tic-Tac-Toe-with-MiniMax-Algorithm/blob/main/end.PNG)
-
-We have created a user-friendly interface using Python libraries such as random, pickle, cv2, and numpy, to make the game more enjoyable and engaging for the users. 
 
 ## Conclusion
 This Tic-Tac-Toe game with MiniMax Algorithm is an excellent example of how to implement AI in a game. The project is a great way to learn about MiniMax algorithm and how it can be used to build AI opponents for games. With its user-friendly interface, score tracking and storage, and various features, the game provides an enjoyable gaming experience.
