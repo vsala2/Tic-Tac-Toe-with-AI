@@ -29,6 +29,9 @@ The Tic-Tac-Toe game comes with the following features:
 ## Winning and Losing Conditions
 If either the player or the AI agent wins, an imaginary line will form connecting 3 same symbols (horizontal, vertical, or diagonal). The losing condition is if no combination is formed until all the cells in the grid are full.
 
+##Output - Winning Possibilities
+![Horizontal](drawlineHorizontical.png)
+
 We have created a user-friendly interface using Python libraries such as random, pickle, cv2, and numpy, to make the game more enjoyable and engaging for the users. 
 
 ## Conclusion
