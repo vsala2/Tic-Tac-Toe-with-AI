@@ -1,4 +1,4 @@
-### Tic-Tac-Toe with MiniMax Algorithm
+# Tic-Tac-Toe with MiniMax Algorithm
 
 This project is a Tic-Tac-Toe game implemented in Python using MiniMax Algorithm with AI. The game is designed to be user-friendly and optimized for performance. The main objective of this project is to demonstrate the use of MiniMax algorithm in building a Tic-Tac-Toe game.
 
@@ -28,6 +28,9 @@ The Tic-Tac-Toe game comes with the following features:
 
 ## Winning and Losing Conditions
 If either the player or the AI agent wins, an imaginary line will form connecting 3 same symbols (horizontal, vertical, or diagonal). The losing condition is if no combination is formed until all the cells in the grid are full.
+
+## Dashboard
+![Start Game](https://github.com/vsala2/Tic-Tac-Toe-with-MiniMax-Algorithm/blob/main/initialStage.PNG)
 
 We have created a user-friendly interface using Python libraries such as random, pickle, cv2, and numpy, to make the game more enjoyable and engaging for the users. 
 
