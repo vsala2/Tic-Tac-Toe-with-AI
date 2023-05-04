@@ -1,4 +1,4 @@
-## Tic-Tac-Toe with MiniMax Algorithm
+### Tic-Tac-Toe with MiniMax Algorithm
 
 This project is a Tic-Tac-Toe game implemented in Python using MiniMax Algorithm with AI. The game is designed to be user-friendly and optimized for performance. The main objective of this project is to demonstrate the use of MiniMax algorithm in building a Tic-Tac-Toe game.
 
